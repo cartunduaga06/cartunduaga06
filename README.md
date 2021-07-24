@@ -2,8 +2,11 @@
 
 Hi there 👋
 🔭 I’m currently working on my own
+
 🌱 I’m currently learning Certified Tech Developer - Digital House
+
 📫 How to reach me: cartunduaga@gmail.com
+
 ⚡ Fun fact: I love learning 
 
 <!--
