@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi there 👋
+🔭 I’m currently working on my own
+🌱 I’m currently learning Certified Tech Developer - Digital House
+📫 How to reach me: cartunduaga@gmail.com
+⚡ Fun fact: I love learning 
+
 <!--
 **cartunduaga06/cartunduaga06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
